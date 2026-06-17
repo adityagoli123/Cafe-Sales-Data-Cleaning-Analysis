@@ -1,6 +1,6 @@
 ☕ Cafe Sales Data Cleaning & Analysis
 
-📌 Project Overview
+📌 Project Overview:
 This project focuses on the end-to-end data preparation and cleaning of a messy, real-world cafe sales dataset. The primary objective was to transform raw, inconsistent transaction records into a clean, structured format suitable for business intelligence reporting and exploratory data analysis (EDA).
 
 By addressing missing values, data entry errors, and formatting inconsistencies, this project ensures high data integrity for downstream financial and operational analysis.
